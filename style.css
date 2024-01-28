@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0C2D57;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+*{
+    color:#0C2D57 ;
+}
+
+.weather-container {
+    background-color: #FC6736;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #FC6736;
+    text-align: center;
+}
+
+.location {
+    margin-bottom: 20px;
+}
+
+button {
+    cursor: pointer;
+}
+
